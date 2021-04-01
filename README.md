@@ -10,3 +10,7 @@ And yet, I did it! It is one of the most hectic, adrenaline-rushing weekends of 
 The most gratifying part of this experience came from the final stretch: it was less than an hour before the game jam ended, and one of the members on my team was already getting ready to upload our game in case it needed time to upload. Our game still did not have (1) a timer, which was crucial for our game's idea of starting over to create a *time paradox* when the player did not escape the room in time and (2) the door lock did not yet interact with both the key and the timer. As the clock was ticking and tocking, I used everything I had learned about objects and scripts interacting in Unity to create variables, attach them to objects and scripts, and have those objects and scripts interact. My blood was *pumping*! And in time, I was able to get everything working and have those components of our game in place! It was so, so gratifying to have learned everything I did in the past 2 days and have it culminate in that very satisfying moment.
 
 And that was my first game and game jam! I look forward to making more games, joining more jams, and learning more things!
+
+-------------
+
+Included in this repository are the code I wrote for the game.
