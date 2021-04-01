@@ -1,5 +1,4 @@
 # Paradox
-My very first game and game jam!
 
 This past February, I entered GameDev Knights' Spring Jam 2021 - my very first game jam. Prior to this game jam, I had not made a single game or even touched Unity. All I knew coming into it was that I wanted to make games, and this was my opportunity to make one! I wanted to join a team that already had programmers, so I could learn from them. However, this was not the case...
 
